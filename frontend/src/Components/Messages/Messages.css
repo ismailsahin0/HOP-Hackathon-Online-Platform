@@ -1,0 +1,13 @@
+.conversations-panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.conversation {
+    width: 250px;
+    padding: 8px;
+    background-color: lightgray;
+    cursor: pointer;
+}

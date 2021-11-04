@@ -1,0 +1,28 @@
+.containerHome {
+   width: 80%;
+}
+
+.mainLayout {
+    margin-left: 1%;
+    
+}
+
+.mainDiv{
+    background-color: white;
+}
+
+.hackathonsRow{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.sponsorsRow{
+    background-color: rgb(243, 242, 242);
+    border-radius: 5px;
+}
+
+.footerRow{
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+

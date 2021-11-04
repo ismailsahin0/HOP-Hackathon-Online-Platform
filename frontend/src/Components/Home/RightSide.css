@@ -1,0 +1,21 @@
+.calender {
+    background-color: white ;
+    border: 0px;
+    margin-top: 5em;
+    
+}
+
+.recentUpdates {
+    color: black;
+    background-color: white ;
+    margin-top: 5em;
+    
+}
+
+.table th {
+    border-top: 0px !important;
+}
+
+.tableRow {
+    font-weight: normal;
+}

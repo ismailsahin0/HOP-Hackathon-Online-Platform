@@ -1,0 +1,59 @@
+.jurie-page-card-item{
+    background-color: #d3c2c2 !important;
+}
+
+.jurie-page-card-item:hover {
+
+    transform: translateY(-5px);
+    transition: 0.1s;
+}
+
+.jurie-page-card-item:hover .card-op-button {
+    background-color: green;
+    transition: 0.1s;
+}
+
+.group-cards-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px;
+}
+
+.group-info-card {
+    max-width: 23%;
+}
+
+.group-operations{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.jurie-page-header {
+    width:100%; 
+    text-align:center;
+}
+
+.vote-op-button {
+    background-color: rgb(15, 103, 192);
+}
+
+.group-info-card-body {
+    background-color: #f0b002;
+}
+
+.disabled-table-row {
+    background-color: rgb(187, 184, 184);
+}
+
+.active-table-row {
+    background-color: rgb(99, 204, 99);
+}
+
+.default-table-row {
+    background-color: white;
+}

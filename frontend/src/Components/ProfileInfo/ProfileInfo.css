@@ -1,0 +1,31 @@
+.profileForm {
+    margin-left: 10px;
+}
+
+.chips-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.chip {
+    border-radius: 8px;
+    background-color: brown;
+    padding: 3px 6px;
+    color: white;
+    margin: 3px;
+    width: 9rem;
+}
+
+.add-skill {
+    width: 85%;
+}
+
+.sectionTitle {
+    text-align: left;
+}
+
+#deleteButton {
+    background-color: '98958c00 !important';
+}

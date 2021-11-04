@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Introduction",
+        "start": "8.40",
+        "end": "9.30"
+    },
+    {
+        "id": 1,
+        "name": "Group Meetings",
+        "start": "9.40",
+        "end": "10.30"
+    },
+    {
+        "id": 2,
+        "name": "Project Development",
+        "start": "10.40",
+        "end": "19.30"
+    },
+    {
+        "id": 3,
+        "name": "Finishing Event",
+        "start": "19.40",
+        "end": "20.00"
+    }
+]

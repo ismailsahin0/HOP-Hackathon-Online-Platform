@@ -1,0 +1,53 @@
+[
+    {
+        "userId": 0,
+        "fullname": "Emre Zinal",
+        "groupId": 1,
+        "rank": "",
+        "city": "Adana",
+        "email": "emrezinal151@gmail.com",
+        "password": "hasdahodh890p1u48",
+        "phone": "05432221155",
+        "account_status": "active",
+        "role": "Participant",
+        "account_creation_date": "13/12/2020"
+    },
+    {
+        "userId": 1,
+        "fullname": "Mahir Bastas",
+        "groupId": 1,
+        "rank": "",
+        "city": "Kayseri",
+        "email": "mahir.bastas@gmail.com",
+        "password": "asfaytweryweyt234",
+        "phone": "05356676789",
+        "account_status": "active",
+        "role": "Jury",
+        "account_creation_date": "13/12/2020"
+    },
+    {
+        "userId": 2,
+        "fullname": "Betul Gokbel",
+        "groupId": 1,
+        "rank": "",
+        "city": "Kayseri",
+        "email": "betul.gokbel@gmail.com",
+        "password": "asfacbvxydertwert546",
+        "phone": "05447778899",
+        "account_status": "active",
+        "role": "Organizer",
+        "account_creation_date": "13/12/2020"
+    },{
+        "userId": 3,
+        "fullname": "Ismail Sahin",
+        "groupId": 1,
+        "rank": "",
+        "city": "Ankara",
+        "email": "ismailsahin@gmail.com",
+        "password": "657575srfadfasrfat//**",
+        "phone": "05459998855",
+        "account_status": "active",
+        "role": "Admin",
+        "account_creation_date": "13/12/2020"
+    }
+]

@@ -1,0 +1,12 @@
+.file-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 24px;
+}
+
+.admin-ops-icon {
+    margin-right: 8px;
+    padding: 5px; 
+    border-radius: 3px;
+}

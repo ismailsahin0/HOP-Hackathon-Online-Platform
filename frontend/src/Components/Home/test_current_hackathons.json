@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Quantum Turkey Event",
+        "date": "06/01/2021",
+        "details": "Quantum Turkey event. Lets join an amazing hackathon !",
+        "butonText": "Register",
+        "image": "/h0.webp"
+    },
+    {
+        "id": 1,
+        "title": "Metu Coding Competition",
+        "date": "05/01/2021",
+        "details": "Join the world of Competitive Programming!",
+        "butonText": "Register",
+        "image": "/h1.webp"
+    },
+    {
+        "id": 3,
+        "title": "Fundamentals of CyberSecurity",
+        "date": "06/01/2021",
+        "details": "Are you a 0 or the 1? Lets Discover CyberSecurity",
+        "butonText": "Register",
+        "image": "/h2.jpg"
+    }
+]

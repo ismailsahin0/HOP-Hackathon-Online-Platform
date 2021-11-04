@@ -1,0 +1,8 @@
+{
+    "apps": [
+        {
+            "name": "hop-frontend",
+            "script": "npm start"
+        }
+    ]
+}

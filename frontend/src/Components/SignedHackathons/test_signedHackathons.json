@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Quantum Hackathon",
+        "date": "10.12.2020",
+        "status": ["Finished"],
+        "group": "Covvidon"
+    },
+    {
+        "title": "Gaming Hackathon",
+        "date": "03.09.2020",
+        "status": ["Finished"],
+        "group": "Cengaverler"
+    },
+    {
+        "title": "Akbank Hackathon",
+        "date": "06.01.2021",
+        "status": ["In Progress"],
+        "group": "Covvid21"
+    },
+    {
+        "title": "Turkcell Hackathon",
+        "date":"10.01.2021",
+        "status": ["Upcoming"],
+        "group": "Jacobs"
+    }
+]

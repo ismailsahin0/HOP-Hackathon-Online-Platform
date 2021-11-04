@@ -1,0 +1,26 @@
+[
+    {
+        "groupId": 1,
+        "groupName": "Cengaver",
+        "members": ["Ahmet, ","Nazlı"],
+        "skills": ["Java","Flutter","Spring", "Python", "C#"]
+    },  
+    {
+        "groupId": 2,
+        "groupName": "Jacobs",
+        "members": ["İlayda , ","Kübra"],
+        "skills": ["NodeJs","Python","SQL", "Java", "DotNet"]
+    },
+    {
+        "groupId": 3,
+        "groupName": "Covvido20",
+        "members": ["Mehmet, ","Alp"],
+        "skills": ["Python","Vue.js","PostgreSQL", "Js", "Flutter"]
+    },
+    {
+        "groupId": 4,
+        "groupName": "Hoppa",
+        "members": ["Emirhan, ","Sinem"],
+        "skills": ["Python","Vue.js","MySQL", "ReactJs", "Angular"]
+    }
+]

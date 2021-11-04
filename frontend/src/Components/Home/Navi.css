@@ -1,0 +1,40 @@
+.navBar {
+    height: 6em;
+    background-color: #000000;
+}
+
+.nav-link{
+    color: white !important;
+    margin-right: 3em;  
+}  
+
+#navbar-logo {
+    font-weight: bold;
+    color: white;
+}
+
+.accountDropdown {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus{
+    color: red !important;
+    background-color: rgb(59, 58, 58) !important;
+}
+
+.navbar-collapse{
+    padding-left: 5%;
+    font-weight: bold; 
+}
+
+.auth-buttons {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.logout-btn {
+    background-color: black !important;
+    border: none !important;
+    width: 100% !important;
+    text-align: left !important;
+}

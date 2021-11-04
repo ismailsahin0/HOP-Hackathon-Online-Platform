@@ -1,0 +1,4 @@
+node_modules
+frontend/.eslintcache
+.idea
+package-lock.json

@@ -1,0 +1,14 @@
+.admin-ops-icon {
+    margin-right: 8px;
+    padding: 5px; 
+    border-radius: 3px;
+}
+
+.user-table-row:nth-child(odd) {
+    background-color: #ccc;
+}
+
+.admin-ops-icon:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}

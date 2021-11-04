@@ -1,0 +1,52 @@
+[
+    {
+        "username": "Emre",
+        "email": "emrezinal151@gmail.com",
+        "type": "participant",
+        "skills": ["Angular2", "React", "Nodejs"],
+        "upcoming-hackathon": {
+            "name": "AKBANK HACKATHON",
+            "date": "01/02/2021",
+            "organizer": "Akbank Development"
+        },
+        "signed-hackathons": [
+            {}
+        ],
+        "matching": [
+            {
+                "id": "",
+                "team-name": "",
+                "members": [],
+                "skills": []
+            }
+        ]
+    },
+
+    {
+        "username": "Mahir",
+        "email": "mahir.bastas@metu.edu.tr",
+        "type": "jury",
+        "upcoming-hackathon": {
+            "name": "Genetic Algorithms Workshop",
+            "date": "02/04/2021",
+            "organizer": "Association for Computing Machinery"
+        }
+    },
+
+    {
+        "username": "Betül",
+        "email": "gokbel.betul@metu.edu.tr",
+        "type": "organizer",
+        "hackathon": {
+            "name": "Lets Discover Programming 2",
+            "date": "04/02/2021"
+        }
+    },
+
+    {
+        "username": "İsmail",
+        "email": "smile.shine@gmail.com",
+        "type": "admin"
+    }
+
+]

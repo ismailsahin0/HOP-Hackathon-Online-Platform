@@ -1,0 +1,30 @@
+[
+    {
+        "groupId": 0,
+        "name": "Hoppa",
+        "member1": "Emre",
+        "member2": "Nazli",
+        "member3": "Kubra"
+    },
+    {
+        "groupId": 1,
+        "name": "Jacobs",
+        "member1": "İlayda",
+        "member2": "Kübra",
+        "member3": "Mahir"
+    },
+    {
+        "groupId": 2,
+        "name": "Cengaver",
+        "member1": "Mehmet",
+        "member2": "Alp",
+        "member3": "Betul"
+    },
+    {
+        "groupId": 3,
+        "name": "Covidon20",
+        "member1": "Emirhan",
+        "member2": "Sinem",
+        "member3": "Emre"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "Lets Discover Programming 2",
+        "date": "4/2/2021",
+        "details": "Lets learn coding together!",
+        "butonText": "Event Details",
+        "image": "/h6.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Case Study Competition",
+        "date": "2/3/2021",
+        "details": "Lets join amazing case study !  ",
+        "butonText": "Event Details",
+        "image": "/h5.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Q-Turkey Workshop",
+        "date": "8/2/2021",
+        "details": "Advanced topics on Quantum programming",
+        "butonText": "Event Details",
+        "image": "/h4.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Fundamentals of CyberSecurity",
+        "date": "15/4/2021",
+        "details": "Are you a 0 or the 1?",
+        "butonText": "Event Details",
+        "image": "/h7.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Genetic Algorithms Workshop",
+        "date": "2/4/2021",
+        "details": "Lets learn Algorithms!",
+        "butonText": "Event Details",
+        "image": "/h8.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Akbank Hackathon",
+        "date": "3/5/2021",
+        "details": "Lets get a chance to join Akbank",
+        "butonText": "Event Details",
+        "image": "/hack.jpg"
+    }
+]
